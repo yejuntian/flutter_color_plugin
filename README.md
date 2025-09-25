@@ -1,4 +1,4 @@
-### flutter_color_plugin
+### flutter_color_plugin2
 
 // Usage hex from string and alternative color systems
 
