@@ -1,7 +1,7 @@
 import 'dart:math' show pow;
 import 'dart:ui' show Color;
 
-import 'package:flutter_color_plugin/xyz_color.dart';
+import 'package:flutter_color_plugin2/xyz_color.dart';
 
 class CielabColor extends Color {
   /// An immutable 32 bit color value in ARGB format.
